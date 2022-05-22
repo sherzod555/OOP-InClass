@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\obj\Debug\net5.0\InClass_7584.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\obj\Debug\net5.0\InClass_7584.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\obj\Debug\net5.0\InClass_7584.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\obj\Debug\net5.0\InClass_7584.AssemblyInfo.cs
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\obj\Debug\net5.0\InClass_7584.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\bin\Debug\net5.0\InClass_7584.exe
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\bin\Debug\net5.0\InClass_7584.deps.json
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\bin\Debug\net5.0\InClass_7584.runtimeconfig.json
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\bin\Debug\net5.0\InClass_7584.runtimeconfig.dev.json
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\bin\Debug\net5.0\InClass_7584.dll
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\bin\Debug\net5.0\ref\InClass_7584.dll
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\bin\Debug\net5.0\InClass_7584.pdb
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\obj\Debug\net5.0\InClass_7584.dll
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\obj\Debug\net5.0\ref\InClass_7584.dll
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\obj\Debug\net5.0\InClass_7584.pdb
+C:\Users\user\Desktop\00007584\InClass_7584\InClass_7584\obj\Debug\net5.0\InClass_7584.genruntimeconfig.cache
